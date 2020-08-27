@@ -1,0 +1,17 @@
+{
+  "name": "monokai-grayjack-syntax",
+  "theme": "syntax",
+  "version": "0.8.2",
+  "description": "A brighter monokai theme variant for Atom. Forked from monokai neo",
+  "keywords": [
+    "monokai",
+    "bright",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/GrayJack/monokai-grayjack-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
