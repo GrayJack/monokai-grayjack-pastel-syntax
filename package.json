@@ -1,15 +1,15 @@
 {
-  "name": "monokai-grayjack-syntax",
+  "name": "monokai-grayjack-pastel-syntax",
   "theme": "syntax",
-  "version": "0.8.2",
-  "description": "A brighter monokai theme variant for Atom. Forked from monokai neo",
+  "version": "0.1.0",
+  "description": "A pastel monokai theme variant for Atom.",
   "keywords": [
     "monokai",
-    "bright",
+    "pastel",
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/GrayJack/monokai-grayjack-syntax",
+  "repository": "https://github.com/GrayJack/monokai-grayjack-pastel-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
